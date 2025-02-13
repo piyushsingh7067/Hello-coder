@@ -1,9 +1,10 @@
 // this keyword
 
-console.log(20);
+console.log(30);
+console.log("lastest change");
 
-console.log(window);
-console.log(this);
+// console.log(window);
+// console.log(this);
 
 // let a = 10;
 // const b = 20;
