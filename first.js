@@ -1,7 +1,7 @@
 // this keyword
 
-console.log(30);
-console.log("lastest change");
+// console.log(30);
+// console.log("lastest change");
 
 // console.log(window);
 // console.log(this);
